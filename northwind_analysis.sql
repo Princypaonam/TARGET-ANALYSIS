@@ -1,5 +1,5 @@
 -- ============================================================
--- NORTHWIND SALES ANALYSIS – SQL PROJECT
+-- TARGET SALES ANALYSIS – SQL PROJECT
 -- Dataset: Orders, Products, Employees (830 orders, 89 customers)
 -- ============================================================
 
